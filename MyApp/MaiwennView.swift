@@ -9,7 +9,7 @@ import SwiftUI
 
 struct MaiwennView: View {
     var body: some View {
-            Image(systemName: "teddybear.fill").font(.largeTitle)
+            Image(systemName: "heart.fill").font(.largeTitle)
     }
 }
 
