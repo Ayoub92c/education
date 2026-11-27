@@ -9,7 +9,7 @@ import SwiftUI
 
 struct OlgaView: View {
     var body: some View {
-        Text("Hello, Olga!")
+        Text("Hello, Olga! Hello, Ayoub! Hello, Maiwenn! Hello, Yves!")
     }
 }
 
